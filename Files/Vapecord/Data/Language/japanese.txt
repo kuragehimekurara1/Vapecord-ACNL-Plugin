@@ -13,8 +13,8 @@ VECTOR_ENABLED :: 有効
 VECTOR_DISABLED :: 無効
 ENTER_ID :: IDを入力
 ONLY_TOWN_ERROR :: エラー: 自分の村以外では使用できません。
-INVALID :: Invalid
-INVALID_ID :: Error: Invalid ID!
+INVALID :: 無効
+INVALID_ID :: エラー: IDが無効です！
 
 #Save Codes Folder
 SAVE_CODES :: システム関連
@@ -84,10 +84,10 @@ CARAVAN_SET_LEFT :: 左側の車両
 CARAVAN_SET_RIGHT :: 右側の車両
 
 #Camping Changer
-CAMPING_SET :: Camping Villager Changer
-CAMPING_SET_NOTE :: Lets you edit/remove the current villager in your camping ground.
-CAMPING_SET_SET :: Set Camping Villager
-CAMPING_SET_REMOVE :: Remove Camping Villager
+CAMPING_SET :: キャンプ村人チェンジャー
+CAMPING_SET_NOTE :: キャンプ場の現在の村人を編集/削除できます。
+CAMPING_SET_SET :: キャンプ村人セット
+CAMPING_SET_REMOVE :: キャンプ村人を削除
 
 #shop upgrade
 SHOP_UPGRADE :: 商店街の進展状況変更
@@ -112,40 +112,40 @@ KEY_CHOOSE_UPGRADE :: お店のアップグレードができます。
 #House Editor
 HOUSE_EDITOR_NAME :: 家の外観変更
 HOUSE_EDITOR_NOTE :: プレイヤーの家の外観と内部を変更できます。
-HOUSE_EDITOR_EXT :: Exterior
-HOUSE_EDITOR_INT :: Interior
-HOUSE_EDITOR_HOUSE_SIZE :: House Size
-HOUSE_EDITOR_HOUSE_STYLE :: House Style
-HOUSE_EDITOR_HOUSE_DOORSHAPE :: House Door Shape
-HOUSE_EDITOR_HOUSE_BRICK :: House Brick
-HOUSE_EDITOR_HOUSE_ROOF :: House Roof
-HOUSE_EDITOR_HOUSE_DOOR :: House Door
-HOUSE_EDITOR_HOUSE_FENCE :: House Fence
-HOUSE_EDITOR_HOUSE_PAVEMENT :: House Pavement
-HOUSE_EDITOR_HOUSE_MAILBOX :: House Mailbox
-HOUSE_EDITOR_HOUSE_SET1 :: Set House Size\nRange: 00 -> 07
-HOUSE_EDITOR_HOUSE_SET2 :: Set House Style\nRange: 00 -> 03
-HOUSE_EDITOR_HOUSE_SET3 :: Set House Door Shape\nRange: 00 -> 01
-HOUSE_EDITOR_HOUSE_SET4 :: Set House Brick\nRange: 00 -> 1F
-HOUSE_EDITOR_HOUSE_SET5 :: Set House Roof\nRange: 00 -> 22
-HOUSE_EDITOR_HOUSE_SET6 :: Set House Door\nRange: 00 -> 15
-HOUSE_EDITOR_HOUSE_SET7 :: Set House Fence\nRange: 00 -> 16
-HOUSE_EDITOR_HOUSE_SET8 :: Set House Pavement\nRange: 00 -> 08
-HOUSE_EDITOR_HOUSE_SET9 :: Set House Mailbox\nRange: 00 -> 15
-HOUSE_EDITOR_ROOM_MIDDLE :: Ground Floor Middle
-HOUSE_EDITOR_ROOM_SECOND :: Second Floor
-HOUSE_EDITOR_ROOM_BASEMENT :: Basement
-HOUSE_EDITOR_ROOM_RIGHT :: Ground Floor Right
-HOUSE_EDITOR_ROOM_LEFT :: Ground Floor Left
-HOUSE_EDITOR_ROOM_BACK :: Ground Floor Back
-HOUSE_EDITOR_ROOM_SET1 :: Set Ground Floor Middle Room Size\nRange: \n00 Starting Tent\n01 House Creation\n02 House Expansion 1\n03 House Expansion 2\n04 House Expansion 3
-HOUSE_EDITOR_ROOM_SET2 :: Set Second Floor Room Size\nRange: \n01 No Room\n02 Room Creation\n03 Room Expansion 1\n04 Room Expansion 2
-HOUSE_EDITOR_ROOM_SET3 :: Set Basement Room Size\nRange: \n01 No Room\n02 Room Creation\n03 Room Expansion 1\n04 Room Expansion 2
-HOUSE_EDITOR_ROOM_SET4 :: Set Ground Floor Right Room Size\nRange: \n01 No Room\n02 Room Creation\n03 Room Expansion 1\n04 Room Expansion 2
-HOUSE_EDITOR_ROOM_SET5 :: Set Ground Floor Left Room Size\nRange: \n01 No Room\n02 Room Creation\n03 Room Expansion 1\n04 Room Expansion 2
-HOUSE_EDITOR_ROOM_SET6 :: Set Ground Floor Back Room Size\nRange: \n01 No Room\n02 Room Creation\n03 Room Expansion 1\n04 Room Expansion 2
-HOUSE_EDITOR_SELECT_HOUSE :: Select House Setting
-HOUSE_EDITOR_SELECT_ROOM :: Select Room\nTo see changes Save and Quit your Game (Or skip to the next day)!
+HOUSE_EDITOR_EXT :: 外観
+HOUSE_EDITOR_INT :: インテリア
+HOUSE_EDITOR_HOUSE_SIZE :: 家の大きさ
+HOUSE_EDITOR_HOUSE_STYLE :: 家のスタイル
+HOUSE_EDITOR_HOUSE_DOORSHAPE :: 家のドアの形
+HOUSE_EDITOR_HOUSE_BRICK :: 家のレンガ
+HOUSE_EDITOR_HOUSE_ROOF :: 家の屋根
+HOUSE_EDITOR_HOUSE_DOOR :: 家のドア
+HOUSE_EDITOR_HOUSE_FENCE :: 家のフェンス
+HOUSE_EDITOR_HOUSE_PAVEMENT :: 家の舗装
+HOUSE_EDITOR_HOUSE_MAILBOX :: 家のポスト
+HOUSE_EDITOR_HOUSE_SET1 :: 家のサイズを設定\n範囲: 00 -> 07
+HOUSE_EDITOR_HOUSE_SET2 :: 家のスタイルを設定\n範囲: 00 -> 03
+HOUSE_EDITOR_HOUSE_SET3 :: 家のドアの形状を設定\n範囲: 00 -> 01
+HOUSE_EDITOR_HOUSE_SET4 :: 家のレンガを設定\n範囲: 00 -> 1F
+HOUSE_EDITOR_HOUSE_SET5 :: 家の屋根を設定\n範囲: 00 -> 22
+HOUSE_EDITOR_HOUSE_SET6 :: 家のドアを設定\n範囲: 00 -> 15
+HOUSE_EDITOR_HOUSE_SET7 :: 家のフェンスを設定\n範囲: 00 -> 16
+HOUSE_EDITOR_HOUSE_SET8 :: 家の舗装を設定\n範囲: 00 -> 08
+HOUSE_EDITOR_HOUSE_SET9 :: 家のポストを設定\n範囲: 00 -> 15
+HOUSE_EDITOR_ROOM_MIDDLE :: 1階の真ん中
+HOUSE_EDITOR_ROOM_SECOND :: 二階
+HOUSE_EDITOR_ROOM_BASEMENT :: 地下
+HOUSE_EDITOR_ROOM_RIGHT :: 1階の右
+HOUSE_EDITOR_ROOM_LEFT :: 1階の左
+HOUSE_EDITOR_ROOM_BACK :: 1階のバック
+HOUSE_EDITOR_ROOM_SET1 :: 1 階の中間の部屋のサイズを設定\n範囲: \n00 テント\n01 家の作成\n02 1回目の家の拡張 \n03 2回目の家の拡張\n04 3回目の家の拡張
+HOUSE_EDITOR_ROOM_SET2 :: 2階の部屋のサイズを設定\n範囲: \n01 部屋なし\n02 部屋の作成\n03 1回目の部屋の拡張\n04 2回目の部屋の拡張
+HOUSE_EDITOR_ROOM_SET3 :: 地下の部屋のサイズを設定\n範囲: \n01 部屋なし\n02 部屋の作成\n03 1回目の部屋の拡張\n04 2回目の部屋の拡張
+HOUSE_EDITOR_ROOM_SET4 :: 1 階の右の部屋のサイズを設定\n範囲: \n01 部屋なし\n02 部屋の作成\n03 1回目の部屋の拡張\n04 2回目の部屋の拡張
+HOUSE_EDITOR_ROOM_SET5 :: 1 階左の部屋のサイズを設定\n範囲: \n01 部屋なし\n02 部屋の作成\n03 1回目の部屋の拡張\n04 2回目の部屋の拡張
+HOUSE_EDITOR_ROOM_SET6 :: 1 階の奥の部屋のサイズを設定\n範囲: \n01 部屋なし\n02 部屋の作成\n03 1回目の部屋の拡張\n04 2回目の部屋の拡張 
+HOUSE_EDITOR_SELECT_HOUSE :: 家の設定を選択
+HOUSE_EDITOR_SELECT_ROOM :: 部屋を選択\n変更を確認するには、ゲームを保存して終了します (または次の日にスキップします)。
 
 #QR Machine Unlocker
 QR_MACHINE_NAME :: ミシンをアンロック
@@ -175,11 +175,11 @@ COORD_MOD_KEY2 :: 右に移動
 COORD_MOD_KEY3 :: 左に移動
 COORD_MOD_KEY4 :: 下に移動
 COORD_MOD_KEY5 :: 上に移動
-COORD_MOD_ENTER_SPEED :: 速度を入力してください。\nデフォルト値 [5]
+COORD_MOD_ENTER_SPEED :: 速度を入力してください。\nデフォルトの値 [5]
 
 #Moon Jump
 MOON_JUMP :: ムーンジャンプ
-MOON_JUMP_NOTE :: MoonJumpできます。
+MOON_JUMP_NOTE :: ムーンジャンプ出来ます。
 MOON_JUMP_KEY1 :: 浮く
 MOON_JUMP_KEY2 :: 解除
 
@@ -213,8 +213,8 @@ VISIBILITY_MOD_KEY1 :: 見た目を変更
 
 #Speed Mod
 SPEED_MOD :: 歩く/走る速さ変更
-SPEED_MOD_NOTE :: 歩く、走る速さを変更できます。\nデフォルト値 [1]
-SPEED_MOD_SPEED :: 速度の数値を入力してください。\nデフォルト値 [1]
+SPEED_MOD_NOTE :: 歩く、走る速さを変更できます。\nデフォルトの値 [1]
+SPEED_MOD_SPEED :: 速度の数値を入力してください。\nデフォルトの値 [1]
 
 #Room Warp
 ROOM_WARPING :: 選択した場所へ移動
@@ -251,8 +251,8 @@ DUPE_ITEMS_KEY2 :: 全スロットにコピー
 #Catalog To Pocket
 CATALOG_TO_POCKET :: 注文商品をポケットに配置
 CATALOG_TO_POCKET_NOTE :: 注文したアイテムをポケットに配置します。
-CATALOG_TO_POCKET_KEY1 :: Open Catalog/Get Item
-CATALOG_TO_POCKET_KEY2 :: Hide Info
+CATALOG_TO_POCKET_KEY1 :: カタログを開く/アイテムを取得
+CATALOG_TO_POCKET_KEY2 :: 情報を隠す
 
 #Chat Text2Item
 CHAT_T2I :: テキストアイテム
@@ -267,9 +267,9 @@ VECTOR_ITEMSETTINGS_INFINITE :: アイテム無限化
 VECTOR_ITEMSETTINGS_EAT :: 食べる
 
 #Save Menu Changer
-SAVE_MENU_CHANGER :: Save Menu Changer
-SAVE_MENU_CHANGER_NOTE :: Lets you change the save menu to a any other menu you want.
-SAVE_MENU_CHANGER_ENTER_ID :: Type the menu ID you want to load.
+SAVE_MENU_CHANGER :: メニューチェンジャーを保存
+SAVE_MENU_CHANGER_NOTE :: 保存メニューを他の任意のメニューに変更できます。
+SAVE_MENU_CHANGER_ENTER_ID :: ロードするメニューIDを入力します。
 VECTOR_SAVEMENU_DATETIME :: 日付変更
 VECTOR_SAVEMENU_BELLPOINT_DEPO :: ベルの預け入れ
 VECTOR_SAVEMENU_BELLPOINT_WITHDRAW :: ベルの引き出し
@@ -292,7 +292,7 @@ GET_SET_RESTORE :: 復元するデータを選択してください。
 #Player Codes Folder
 PLAYER_CODES :: プレイヤー関連
 #Player Save Codes Folder
-PLAYER_SAVE_CODES :: Player Save Codes
+PLAYER_SAVE_CODES :: プレイヤーセーブコード
 
 #Name Changer
 NAME_CHANGER :: 名前変更
@@ -420,15 +420,15 @@ CUSTOM_ENTER_HAIR ::RGBカラーコードを入力してください：
 CUSTOM_ENTER_EYE ::目の色のRGBカラーコードを入力してください：
 CUSTOM_FILE_SAVED ::保存成功
 CUSTOM_FILE_LOADED ::読み込み成功
-CUSTOM_HAIR_EYE_KEY1 :: Random Hair/Eye Colors
+CUSTOM_HAIR_EYE_KEY1 :: ランダムな髪/目の色
 
 #Wear Helmet
 WEAR_HELMET :: ヘルメットとアクセサリーを同時に着用
 WEAR_HELMET_NOTE :: ヘルメットとアクセサリーを同時に着用できます。
 
 #Player Loader
-PLAYER_LOADER :: Player Loader
-PLAYER_LOADER_NOTE :: Lets you load a specific player of yours withou the need to restart the game!
+PLAYER_LOADER :: プレイヤーローダー
+PLAYER_LOADER_NOTE :: ゲームを再起動することなく、特定のプレイヤーをロードできます！
 
 #Players on map
 PLAYERS_ON_MAP :: プレイヤーの位置をマップに表示
@@ -484,7 +484,7 @@ ANIM_ON_ALL :: モーション乗っ取り(全員)
 ANIM_ON_ALL_NOTE :: 設定したモーションを他のプレイヤー全員に動作させます。
 ANIM_ON_ALL_KEY1 :: 指定したモーション
 ANIM_ON_ALL_KEY2 :: モーションリセット
-ANIM_ON_ALL_KEY3 :: MoonJump
+ANIM_ON_ALL_KEY3 :: ムーンジャンプ
 
 #Seeding Codes Folder
 SEEDING_CODES :: ドロップ/シード/環境関連
@@ -657,8 +657,8 @@ LOCK_ISLAND_ISL :: 船をロック
 LOCK_ISLAND_CLUB :: オン島をロック
 
 #Instant Ore Hunt Finish
-FILL_INV_ORE :: Max Ore Hunting Points
-FILL_INV_ORE_NOTE :: Makes the game think you have a inventory filled with the bonus ore, therefore receiving max points at the tour results.
+FILL_INV_ORE :: 最大鉱石ハンティングポイント
+FILL_INV_ORE_NOTE :: ボーナス鉱石で満たされたインベントリがあるとゲームに認識させるため、ツアーの結果で最大ポイントを獲得できます。
 
 #Instant Labyrinth Tour Finish
 FILL_INV_FRUIT :: Instant Labyrinth Tour
